@@ -10,4 +10,4 @@ $ cd MELEDAK
 $ python meledak
 
 ### Screenshot
-<img src="https://github.com/SAIPUL-ESDE/MELEDAK/blob/main/Screenshot_20230201_012002.jpg" />
+<img src="https://github.com/SAIPUL-ESDE/MELEDAK/blob/main/IMG_20230130_211735_697.jpg" />
