@@ -13,13 +13,13 @@ Free, don't forget to give a star ⭐
  $ pkg install play-audio 
  $ pip install requests bs4 futures
  $ pip install rich
- $ git clone https://github.com/SAIPUL-ESDE/MELEDAK
+ $ git clone https://github.com/Xyaa-XD/MELEDAK
  ```
 
 ###### Run Script
 
 ```
- $ cd Meledak
+ $ cd MELEDAK
  $ git pull
  $ python meledak.py
 ```
